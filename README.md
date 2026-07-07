@@ -1,2 +1,28 @@
-# 7419a5f2-higher-education-admin-client
-Every higher education professionals needs this — most just don't know it yet.  Import the JSON, set your credentials, click activate. Running in minutes. Built for production: error handling, retry logic, and failure notifications included.  ## What's Included  - Higher Education Admin Client Onboarding Automation — fully configured and ready to u
+# Higher Education Admin Client Onboarding Automation N8N Workflow
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic triggers | Yes | Yes |
+| Standard nodes | Yes | Yes |
+| Manual execution | Yes | Yes |
+| Advanced triggers | - | Yes |
+| Custom nodes | - | Yes |
+| Scheduled execution | - | Yes |
+| Error handling | - | Yes |
+| Priority queue | - | Yes |
+| Webhook integrations | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/8x28wPcLl1g08FG5bucZG1J)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/8x28wPcLl1g08FG5bucZG1J)
+
